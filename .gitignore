@@ -19,5 +19,8 @@
 # Visio autosave temporary files
 *.~vsd*
 
+#PDF
+*.pdf
+
 
 # End of https://www.gitignore.io/api/microsoftoffice
